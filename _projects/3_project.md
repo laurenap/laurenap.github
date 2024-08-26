@@ -2,7 +2,7 @@
 layout: page
 title: EEG Biometrics (ft. ADI/ADI-Rs) 
 description: Using EEG-based biometrics to quantify autism-based symptomatology during autism diagnostic interviews (ADI/ADI-Rs)
-img: assets/img/7.jpg
+img: assets/img/create article tumbnail.jpeg
 redirect: https://youtu.be/7K3Weynj890
 importance: 1
 category: work
