@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Quantifying ASD Symptoms using EEG Biometrics 
-description: Using EEG-based Biometrics to Quantify Autism-based Symptomatology during Autism Diagnostic Interviews (ADI/ADI-Rs)
+title: EEG Biometrics (ft. ADI/ADI-Rs) 
+description: Using EEG-based biometrics to quantify autism-based symptomatology during autism diagnostic interviews (ADI/ADI-Rs)
 img: assets/img/7.jpg
 redirect: https://youtu.be/7K3Weynj890
-importance: 3
+importance: 1
 category: work
 ---
 
