@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Toronto
+subtitle: <a href='#'>neurotech developer </a>. University of Toronto
 
 profile:
   align: center
