@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Quantifying ASD Symptoms using EEG Biometrics 
+description: Using EEG-based Biometrics to Quantify Autism-based Symptomatology during Autism Diagnostic Interviews (ADI/ADI-Rs)
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://youtu.be/7K3Weynj890
 importance: 3
 category: work
 ---
