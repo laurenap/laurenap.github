@@ -86,7 +86,7 @@ lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: # your Medium username
+medium_username: # @laurenap
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -106,11 +106,11 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
 x_username: # your X handle (x.com/@laurenap_)
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: # your youtube channel id (youtube.com/@<laurenap_>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+ don't hesitate to reach out if you have any ideas for potential collaborations!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -144,7 +144,7 @@ related_blog_posts:
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
+# Follow the instructions on https://giscus.app/ to set up your repo to fill out the information below.
 giscus:
   repo: # <laurenap.github.io>/<laurenap.github.io>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
