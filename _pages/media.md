@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /press/
-title: press
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /media/
+title: media
+description: podcast interviews, articles & content features
 nav: true
 nav_order: 6
 ---
