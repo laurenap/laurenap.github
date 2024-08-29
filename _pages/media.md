@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /media/
+permalink: /teaching/
 title: media
 description: podcast interviews, articles & content features
 nav: true
